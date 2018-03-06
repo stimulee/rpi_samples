@@ -9,7 +9,8 @@ IMG_20180307_000400_r.jpg
 ![](./IMG_20180307_000400_r.jpg)
 
 Mise en place :
-
-cp etc/init.d/shutdown* /etc/init.d/
-chmod 755 /etc/init.d/shutdown.sh
-insserv shutdown.sh
+```shell
+   cp etc/init.d/shutdown* /etc/init.d/
+   chmod 755 /etc/init.d/shutdown.sh
+   insserv shutdown.sh
+```
