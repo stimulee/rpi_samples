@@ -24,6 +24,8 @@ Lancer le serveur HTTP qui expose les scripts :
    http://localhost:8080/servo.py?s=fermeture
 ```
 
+![](./IMG_20180308_002437_r.jpg)
+
 sources :
 * http://demonter.net/2013/11/02/comment-piloter-un-servomoteur-a-laide-dun-raspberry-et-du-port-gpio/
 * https://github.com/bewiwi/py-script
