@@ -1,11 +1,10 @@
-Ici plusieurs notions intéressante :
-- créer une api http basic pour lancer des scripts python grace a une simple URL
+# Servomoteur et API
+Ici plusieurs notions intéressantes :
+- créer une api http basic pour lancer des scripts python grâce à une simple URL
 - manipuler un servomoteur
 
-
-
-###API usage :
-start the script with :
+## serveur API :
+Lancer le serveur HTTP qui expose les scripts :
 
 ```shell
    chmod +x ./start.py
@@ -13,7 +12,7 @@ start the script with :
    ./start.py
 ```
 
-###Servomoteur usage :
+## Servomoteur usage :
 * Manuellement :
 ```shell
    python script/servo.py -souverture
